@@ -31,7 +31,7 @@ The control systems of EZ2** series are based on ISA(Industry Standard Architect
 |---|
 |Rear view|
 
-|![Microcontroller Unit of the control card.](docs/images/isa-control-card-mcu.jpg))|
+|![Microcontroller Unit of the control card.](docs/images/isa-control-card-mcu.jpg)|
 |---|
 |Microcontroller Unit (PALCE16V8H25, [Datasheet](docs/datasheets/PALCE16V8.PDF)|
 
