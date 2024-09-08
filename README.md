@@ -14,7 +14,7 @@ I tested AEIC and EC on this machine, they worked fine.
 |Motherboard|Digital Greentek PT-694T-A|
 |North Bridge|VIA VT82C694T|
 |South Bridge|VIA 82C686B|
-|RAM|512MB SD RAM (133MHz)|
+|RAM|512MB(256+256) SD RAM (133MHz)|
 |Video|Riva TNT2 M64 32MB|
 |Sound|SoundBlaster Live! CT4670|
 |Control|Mitsubishi Electric R-29 (As labeled on the card, See figure below) with 1 DB-25 Port|
