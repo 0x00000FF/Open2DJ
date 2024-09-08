@@ -40,3 +40,6 @@ Operating system should be at least Windows 2000, or Windows XP. I already check
 * License Dumping Application for HASP E-Y-E
 * A 9x/NT Kernel Driver and Utilities for Hardlock Emulation
 * A 9x/NT Device Driver and Utilities for Control/IO Connectivity
+
+## Useful Resources
+* [Aladdin Hardlock Emulator](https://www.brstudio.com/wf/dongles/aladdin-hardlock-emulator/)
