@@ -34,3 +34,9 @@ Operating system should be at least Windows 2000, or Windows XP. I already check
 * Build testing applications and utilities in old environment (Windows 9x)
 * Build instrumentalized toolset in old environment
 * Migrate into modern environment (Windows NT 5.x ~)
+
+### Expected Products
+
+* License Dumping Application From HASP E-Y-E
+* A 9x/NT Kernel Driver and Utilities for Hardlock Emulation
+* A 9x/NT Device Driver and Utilities for Control/IO Connectivity
