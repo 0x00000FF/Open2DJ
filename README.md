@@ -23,17 +23,5 @@ I tested AEIC and EC on this machine, they also worked fine.
 
 ### Control Card
 
-The control systems of EZ2** series are based on ISA(Industry Standard Architecture) Bus. It has been the great obstacle for the series to upgrade hardwares, causing several performance-related issues.
-
-|![Front view of the control card.](docs/images/isa-control-card-front.jpg)|
-|---|
-|Front view|
-
-|![Rear view of the control card.](docs/images/isa-control-card-rear.jpg)|
-|---|
-|Rear view|
-
-|![Microcontroller Unit of the control card.](docs/images/isa-control-card-mcu.jpg)|
-|---|
-|Microcontroller Unit (PALCE16V8H25, [Datasheet](docs/datasheets/PALCE16V8.PDF)|
+See [Control Card](docs/CONTROL_CARD.md)
 
