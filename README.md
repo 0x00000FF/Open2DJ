@@ -10,7 +10,7 @@ I tested AEIC and EC on this machine, they also worked fine.
 
 ### PC Specification
 
-See [PC Specification](docs/PC_Specification.md)
+See [PC Specification](docs/PC_SPECS.md)
 
 ### Control Card
 
