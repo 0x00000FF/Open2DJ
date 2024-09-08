@@ -25,3 +25,12 @@ Hardwares are no longer manufactured, or supported for any interruptions due to 
 * Control Card : USB-based controller will be appropriate for this project, however, there are input timing issues.
 * IO Board : This should be integrated with Control Card. Some of ports should be changed or removed to make suitable for home arcade environment, customized controllers.
 * Hardlock : This is the most sensitive issue in this project; I do not release any contents or dumps of existing hardlocks. I will work on extracting and emulating hardlocks to run the games without them, to keep physical hardlock device to store somewhere else. This is not for pirates, but for collectors who want to preserve precious heritages.
+
+Operating system should be at least Windows 2000, or Windows XP. I already checked the games run in such systems. 
+
+### Procedures
+
+* Reversing and Rewriting Requirements
+* Build testing applications and utilities in old environment (Windows 9x)
+* Build instrumentalized toolset in old environment
+* Migrate into modern environment (Windows NT 5.x ~)
