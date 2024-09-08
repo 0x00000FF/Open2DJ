@@ -18,6 +18,8 @@ I tested AEIC and EC on this machine, they worked fine.
 |Video|Riva TNT2 M64 32MB|
 |Sound|SoundBlaster Live! CT4670|
 |Control|Mitsubishi Electric R-29 (As labeled on the card, See figure below) with 1 DB-25 Port|
+|DRM|Aladdin Knowledge Systems Hardlock E-Y-E Series (DB-25 interface)|
+|O/S|Microsoft Windows 98 Second Edition|
 
 ### Control Card
 
