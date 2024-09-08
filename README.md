@@ -2,7 +2,7 @@
 
 A modernization of project the memories of childhood
 
-## Machine Specification
+## Old Machine Specification
 
 This specification is from the machine that I currently own. It depends on EZ2** version to be run, however, I focus on the 1st ~ BErA in this repository.
 
@@ -30,4 +30,8 @@ The control systems of EZ2** series are based on ISA(Industry Standard Architect
 |![Rear view of the control card.](docs/images/isa-control-card-rear.jpg)|
 |---|
 |Rear view|
+
+|![Microcontroller Unit of the control card.](docs/images/isa-control-card-mcu.jpg))|
+|---|
+|Microcontroller Unit (PALCE16V8H25, [Datasheet](docs/datasheets/PALCE16V8.PDF)|
 
