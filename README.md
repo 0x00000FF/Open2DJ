@@ -37,6 +37,6 @@ Operating system should be at least Windows 2000, or Windows XP. I already check
 
 ### Expected Products
 
-* License Dumping Application From HASP E-Y-E
+* License Dumping Application for HASP E-Y-E
 * A 9x/NT Kernel Driver and Utilities for Hardlock Emulation
 * A 9x/NT Device Driver and Utilities for Control/IO Connectivity
