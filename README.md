@@ -20,7 +20,7 @@ See [IO Board](docs/IO_BOARD.md)
 
 ## Plan
 
-Hardwares are no longer manufactured, or supported for any interruptions due to original manufacturer closed their business or discontinued their products. To keep the game running in future, several hardware components (Control Card, IO Board, Hardlock, ...) should be modified or transformed into softwares to maximize compatiability for modern hardware and operating systems.
+Hardwares are no longer manufactured, or supported for any interruptions due to original manufacturer closed their business or discontinued their products. To keep the game running in future, several hardware components (Control Card, IO Board, Hardlock, ...) should be modified or transformed into softwares to maximize compatiability for modern hardware and operating systems. (especially Hard drive; SATA can be a good transition for retro systems)
 
 * Control Card : USB-based controller will be appropriate for this project, however, there are input timing issues.
 * IO Board : This should be integrated with Control Card. Some of ports should be changed or removed to make suitable for home arcade environment, customized controllers.
