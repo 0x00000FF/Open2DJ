@@ -1,6 +1,6 @@
 # Open2DJ
 
-A modernization of project the memories of childhood
+A modernization of project for the memories of childhood
 
 ## Old Machine Specification
 
